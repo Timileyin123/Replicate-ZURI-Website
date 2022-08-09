@@ -1,7 +1,7 @@
 # Replicate-ZURI-Website
 Here are the links to the websites below:
 
-For Talent.zuri.team ( “I’m new to the industry page”):
+For Talent.zuri.team ( “I need industry experience”):
 
 this is the replit link: https://replit.com/@Timileyin123/Replicated-talentzuriteam-frontend-website#style.css
 
