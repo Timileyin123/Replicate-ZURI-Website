@@ -15,3 +15,7 @@ For Training.zuri.team (“I’m new to the industry page”);
 This is the replit link to the code: https://replit.com/@Timileyin123/Replicated-trainingzuriteam-frontend-website#index.html 
 
 This is the link to the published Github page: https://timileyin123.github.io/Replicate-Zuri-Website-2/
+
+
+And this is the link to the another repository created for the task (“I’m new to the industry page”): 
+https://github.com/Timileyin123/Replicate-Zuri-Website-2
